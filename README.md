@@ -77,7 +77,7 @@ SG01 ● 76M
 ### 从源码构建
 
 ```bash
-git clone https://github.com/Lcone/ProxyNodeSpeed.git
+git clone https://github.com/liyihui9987/ProxyNodeSpeed.git
 cd ProxyNodeSpeed
 ./build.sh
 open dist/ProxyNodeSpeed.app
@@ -112,14 +112,23 @@ xcode-select --install
 
 ## 联系
 
-请通过 [GitHub 作者主页](https://github.com/Lcone) 联系。
+欢迎通过微信联系（扫码加好友）：
+
+<p align="center">
+  <img src="assets/contact-wechat.jpg" width="220" alt="微信联系">
+</p>
+
+也可以在 [GitHub 作者主页](https://github.com/liyihui9987) 留言。
 
 ## 支持
 
 如果每天看这一眼已经成了习惯，欢迎支持作者继续做下去。
 
-<!-- SPONSOR -->
-赞助方式即将上线。
+如果这个工具帮到了你，欢迎请作者喝杯咖啡 ☕
+
+<p align="center">
+  <img src="assets/donate-alipay.jpg" width="220" alt="支付宝赞赏">
+</p>
 
 ## License
 
